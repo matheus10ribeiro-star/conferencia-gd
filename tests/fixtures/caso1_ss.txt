@@ -1,0 +1,45 @@
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+Warning: Cannot polyfill `Path2D`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+Warning: fetchStandardFontData: failed to fetch file "LiberationSans-Regular.ttf" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".
+Warning: fetchStandardFontData: failed to fetch file "FoxitFixed.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".
+Warning: fetchStandardFontData: failed to fetch file "FoxitFixedBold.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".
+Serviço: | CN - EXECUTAR GD CAMPO - GR A | SS: | 100000002
+Rest. corte: Não | Prioridade:MÉDIA
+Solicitante: | Data solic.: | 22/10/2026
+Observação: | SS aberta automaticamente pelo sistema a partir da SS 100000001
+UC: | 000111111101 | Medidor: | 10000001-1 | Cte.: | 0.3 | Sit.: | ATIVA
+Cliente: | AGROPECUARIA EXEMPLO ALFA LTDA
+Localidade: BRITANIA | CEP: | 76280-000
+Bairro: | ZONA RURAL
+Endereço: | Telefone: | (62) 0000-0000
+FAZENDA EXEMPLO 0 | GO 173 AO LADO CENTRAL REDE
+Razão: 57 | Rota: | 47 | Roteiro: | 800 | Localização: | Rural | Déb. UC: R$0,00
+Carga: | Data lig.: | 28/05/1997 | Ult. alt.: | 18/05/2026
+Atividade: | 0111-3/01-CULTIVO DE ARROZ
+Tipo ligação: TRIFÁSICO (26 kW EM DIANTE) | Pot. trafo: | 150.00000000
+Tensão forn.: | 34500 | Tensão Med: | 380 V | Fases:
+Classe: | 04-RURAL | Subclasse: | 01-AGROPECUÁRIA RURAL
+Est. tarifária: | THS_VERDE | Subgrupo: | A3-A
+Hor. reserv.: | SIM | CER: | HP difer.:
+Ramal ligação: | Sazonalidade:
+Tipo ramal lig.:
+Posto trafo: | XX00000001
+Contrato: | 2024 | / | kWP: | kWFP:
+Med | 10000001-1 | Leit kWh: | Leit kW: | Cte kWh: | 0.3
+Modelo: | E750-A2E3 | Cte kW: | 0.3
+Med kVArh: | Leit kVArh: | Cte kVArh:
+Modelo:
+Med eletr.: | Ch. afer.: | 3000001-1 | Conj. med.:
+Modelo: | Modelo: | BAR10 | Modelo:
+TC 1: | 2000001-1 | TC 2: | 2000002-1 | TC 3: | 2000003-1 | TCs: | 250/5 A
+TP 1: | TP 2: | TP 3: | TPs:
+Fatores de multiplicação:
+kWh-P: | 0.015 | kWh FP: | 1.5 | kW: | 0.06
+kVArh-P: | 1.5 | kVArh FP: | 1.5
+kWhAna: | kVArhAna:

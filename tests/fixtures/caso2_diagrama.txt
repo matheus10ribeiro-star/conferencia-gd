@@ -1,0 +1,402 @@
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+Warning: Cannot polyfill `Path2D`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+DISTRIBUÍDORA PARA POSSIBILITAR A CONEXÃO DA GERAÇÃO DISTRIBUÍDA. | ADEQUADO DE ACORDO COM AS NORMAS/ESPECIFICAÇÕES VIGENTES DA | VIGENTES | NÃO | ALTERAÇÃO NO CONJUNTO DE MEDIÇÃO. CASO O CONJUNTO DE MEDIÇÃO | NOTA
+REDE EQUATORIAL MT 3#4(4)CAA 34,5 KV
+ESTEJA | N. ilegível | Poste de Derivação
+IMPORTANTE:
+À
+ÉPOCA | DE
+ACORDO
+DE | O
+PROJETO
+SUA
+COM | 3#1/0 CAA
+PRIMEIRA
+AS | DE
+NORMAS | GD
+LIGAÇÃO,
+NÃO | CH. SEC. FUS.
+34,5KV, 300A
+BASE "C"
+ELO 2H | 3-300A
+10KA
+E | CONTEMPLA
+PADRÕES
+ESTE
+DEVERÁ
+QUALQUER
+TÉCNICOS
+3#1/0 CAA
+SER
+TRIFÁSICO
+30 kV, 10 kA para 34,5 kV. | PARA-RAIOS ÓXIDO DE ZINCO
+TUBO CORRUGADO
+HEPR/ XLPE 90° | 3#70(70)T35mm²
+Ø65mm | (0,6/1 kV)
+(34,5-0,380/0,220)kV | TRAFO - 112,5 kVA
+16 mm² | SUBESTAÇÃO TRANSFORMADORA TRIFÁSICA AO TEMPO 112,5KVA - 34,5KV
+In: 10kA | 275V | PARA-RAIOS BAIXA TENSÃO
+GERAÇÃO FOTOVOLTAICA 110 KWP
+QCAFV - QUADRO DE PROT. CA
+10 mm² | 20A
+10mm²
+1 por Fase - ABC
+Inom ≥ 20 kA; Imáx ≥ 40 kA | 175 A
+DPS CA-275V-Classe II-1P | 0,6/1kV, EPR/XLPE 90°C | CABO COBRE ISOLADO
+IMERSÃO A QUENTE | AÇO ZINCADO POR
+3#70(1#35)mm²
+CLASSE 5
+Ø65mm
+1#50mm² nu (T)
+1 POSTE DT 11/600 daN
+DIAGRAMA UNIFILAR
+HEPR/ XLPE 90° | 3#70(70)T35mm²
+1xØ 65mm | (0,6/1 kV)
+TC's 200:5A | TC'S
+Proteções do Inversor
+47 | 46 | 81 | 59 | 27
+ILHAMENTO
+ANTI -
+50/51
+32 | 62 | 25
+CA | CAIXA DE MEDIÇÃO PADRÃO EQUATORIAL
+|
+110 kWp - Trifásico | Inversor Sungrow
+| | SG110CX-P2
+|
+| | | | | | |
+INDIRETA, QUATRO QUADRANTES | MEDIDOR DE ENERGIA ATIVA E REATIVA | DIAGRAMA UNIFILAR E DE BLOCOS
+CC
+vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | vermelho | 1500x700x200mm | MEDIDOR
+preto | preto | preto | preto | preto | preto | preto | preto | preto | preto | preto | preto
+MINIGERAÇÃO DISTRIBUÍDA DE ENERGIA SOLAR FOTOVOLTAICA - 110 KWP
+- | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | - | - | + | + | MEDIÇÃO
+TUBO CORRUGADO
+HEPR/ XLPE 90° | 3#70(70)T35mm²
+Ø65mm | (0,6/1 kV)
+PROTEÇÃO INTEGRADA AO CORPO DO INVERSOR
+DISJUNTOR TRIPOLAR
+PROTEÇÃO
+6mm² | 6mm² | 6mm² | 6mm² | 175A 10kA
+Inom ≥ 20kA; Imáx ≥ 40kA | DPS CC-1000V-Classe II-3P | 6mm² | Inom ≥ 20kA; Imáx ≥ 40kA | DPS CC-1000V-Classe II-3P | 6mm² | Inom ≥ 20kA; Imáx ≥ 40kA | DPS CC-1000V-Classe II-3P | 6mm² | Inom ≥ 20kA; Imáx ≥ 40kA | DPS CC-1000V-Classe II-3P | 6mm²
+6mm² | 6mm² | 6mm² | 6mm²
+1#50mm² nu (T)
+234 MODULOS DE 705 Wp
+Bipolar CC - 1000V/32A | Bipolar CC - 1000V/32A | Bipolar CC - 1000V/32A | Bipolar CC - 1000V/32A
+Chave Seccionadora | Chave Seccionadora | Chave Seccionadora | Chave Seccionadora
+0,6/1kV, EPR/XLPE 90°C | CABO COBRE ISOLADO
+TUBO CORRUGADO
+3#70(1#35)mm² | ENC. CLASSE V
+ANTI-CHAMA
+Ø65mm
+4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho | 4,0 mm², 1kV | vermelho
+preto | preto | preto | preto | preto | preto | preto | preto | preto | preto | preto | preto
+solar | solar | solar | solar | solar | solar | solar | solar | solar | solar | solar | solar
++ | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01 | + | 01
+Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String | Suporte/ Estrutura Metálica dos Módulos | - | 17,33 A | Dados da String
+Imáx | Imáx | Imáx | Imáx | Imáx | Imáx | Imáx | Imáx | Imáx | Imáx | Imáx | Imáx
+TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W | TRINA SOLAR/ TSM-NEG21C.20 / 705W
++ - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02 | + - | 02
+773,3 V | Vmáx | 773,3 V | Vmáx | 773,3 V | Vmáx | 773,3 V | Vmáx | 773,3 V | Vmáx | 773,3 V | Vmáx | 814 V | Vmáx | 814 V | Vmáx | 814 V | Vmáx | 814 V | Vmáx | 814 V | Vmáx | 814 V | Vmáx
+Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência | Fabricante/ Modelo/ Potência
++ - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03 | + - | 03
+... | STRING 12 - 13,395 kWp | ... | STRING 11 - 13,395 kWp | ... | STRING 10 - 13,395 kWp | ... | ... | ... | ... | ... | ... | ... | ... | ... | Passagem | Caixa de
+STRING 9 - 13,395 kWp | STRING 8 - 13,395 kWp | STRING 7 - 13,395 kWp | STRING 6 - 14,10 kWp | STRING 5 - 14,10 kWp | STRING 4 - 14,10 kWp | STRING 3 - 14,10 kWp | STRING 2 - 14,10 kWp | STRING 1 - 14,10 kWp
+P
++ - | 18 | + - | 18 | + - | 18 | + - | 18 | + - | 18 | + - | 18 | + - | 19 | + - | 19 | + - | 19 | + - | 19 | + - | 19 | + - | 19
+MINIGERAÇÃO FOTOVOLTAICA 110KW
++ - | 19 | + - | 19 | + - | 19 | + - | 19 | + - | 19 | + - | 19 | + - | 20 | + - | 20 | + - | 20 | + - | 20 | + - | 20 | + - | 20
+6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm² | 6 mm²
+3Ø 380/220V
+112,5kVA | GERADOR
+16mm² | CHAVE REVERSORA
+200A | 0 | 200A-380V
+ENC. CLASSE II | HEPR/XLPE 90°C
+3#70(70)mm²
+(0,6/1 kV)
+0,6/1kV, EPR/XLPE 90°C | CABO COBRE ISOLADO
+TUBO CORRUGADO
+Coordenadas: UTM 22K | Unidade Consumidora: 10000000002 | Proprietária: PRODUTORA EXEMPLO BETA | FAZENDA EXEMPLO BETA
+3#70(1#35)mm² | ENC. CLASSE V
+PLANTA DE LOCALIZAÇÃO
+ANTI-CHAMA
+Ø65mm
+Y: 0 | X: 0
+QDG (Quadro de Distribuição Geral). | Representação genérica dos circuitos do | NOTA
+QGBT - QUADRO GERAL DE BAIXA TENSÃO
+175 A
+Barramento trifásico 200 A
+25 A | 50 A | 50 A | 16 A | 32 A | 25 A
+16 mm²
+CIRCUITO 6 | CIRCUITO 5 | CIRCUITO 4 | CIRCUITO 3 | CIRCUITO 2 | CIRCUITO 1
+RESERVA | RESERVA
+CONTEÚDO: | FINALIDADE: | DESCRIÇÃO DO PROJETO: | PROPRIETÁRIO: | APROVAÇÃO DA CONCESSIONÁRIA: | 11 - Os condutores devem obedecer às seguintes classes de encordoamento: | operativa. | possuam recursos para impedimento de advertência com indicação da condição | entre outras medidas, a instalação de dispositivos de desligamento de circuitos que | indiretamente, interajam em instalações elétricas e serviços com eletricidade. Cito, | forma a garantir a segurança e a saúde dos trabalhadores que, direta ou | objetivando a implementação de medidas de controle e sistemas preventivos, de | seu projeto e suas instalações elétricas os requisitos e condições mínimas, | 10 - O responsável técnico/ interessado deverá estabelecer, conforme NR-10, em | ABNT. | em conformidade com a NR-10, Normas técnicas/ segurança da EQUATORIAL E | fiscalização/ conexão da G.D. As instalações elétricas nestes locais deverão estar | facilmente a verificação de suas características técnicas durante o processo de | contra intempéries de acordo com o seu grau de proteção (IP), que permitam | 9 - Os inversores deverão estar instalados em locais de fácil acesso, protegidos | no Circuito. | 8 - Identificar na tampa do QDG com o seguinte dizer: Cuidado! Geração Distribuída | aterramento da unidade consumidora. | 7 - O | resultados dos ensaios e resultados dos testes e medições realizados; | responsável, indicando as características finais das instalações de conexão, os | na NT020 da EQUATORIAL GO, devidamente assinados pelo engenheiro | Comissionamento das Instalações de Conexão de acordo com os itens estabelecidos | 6 - Quando da solicitação de vistoria deverá ser apresentado o Relatório de | 16150 e ABNT IEC 62116 e a NT020 da EQUATORIAL - GO; | 5 - Os | manutenção do sistema da Concessionária EQUATORIAL GO; | 4 - O | barramento do BEP não deverá ser superior a 1 ohm; | 3 | tipo natural; | considerando | de falta | forma que mantenham uma boa continuidade com o aterramento e escoem correntes | 2 - Os condutores | aterradas; | 1 - Os eletrodutos e as partes condutoras não vivas da instalação deverão ser | NOTAS:
+- Notas. | - Resumo da Mini/Microgeração; | - Esquema de Ligação dos Módulos Fotovoltaicos; | - Diagrama de Blocos | - Diagrama Unifilar; | Revisão
+RESPONSÁVEL TÉCNICO: | - | - | - | -
+Geração Própria - Suprimento de Energia Elétrica para Instalação Rural | 00 | -
+A
+Microgeração Distribuída de Energia Solar Fotovoltaica - 110 kW | acima de 35 mm²: qualquer classe; | seções entre 16 e 35 mm² (inclusive): cabos classe 2; | seção 10 mm²: fios (classe 1) ou (classe 2); | seção 6 mm²: fios (classe 1); | inversores | fornecedor
+Eng. Fulana de Tal Exemplo | aterramento
+continuidade | ou
+CREA : 0000000000D/GO
+de fuga das strings em | 5
+TRABALHO SEM ACIDENTES
+que os suportes, a | OURO | DICAS DE
+vida | a | viva
+deverão atender ao | dos inversores
+PRODUTORA EXEMPLO BETA | PROJETO ELÉTRICO | do sistema de | de
+Fazenda Exemplo Beta, Km 0, Zona Rural, Itaberaí - GO | entre
+Rua Exemplo, 100, Jataí-GO | proteção - PE e | S | A | C | D
+I
+INALIZAR | TERRAR | ONSTATAR | MPEDIR
+ESLIGAR
+Emissão Inicial | qualquer
+Descrição
+CEP:75.800-402 - Fone: (64) 0 0000-0000 | garante | estrutura
+geração deverá ser
+estabelecido | coordenação
+módulo | TRABALHO ANTES DE INICIAR AS ETAPAS. | SINALIZAR OS EQUIPAMENTOS E A ÁREA DE | SEGURANÇA. | OBEDECENDO OS PROCEDIMENTOS DE | DO LOCAL ONDE SERÁ EXECUTADO O SERVIÇO | ATERRAR O TRECHO DA REDE MAIS PRÓXIMO | CONSTATAR A AUSÊNCIA DE TENSÃO. | ADOTANDO AS MEDIDAS RECOMENDADAS. | IMPEDIR RELIGAMENTOS INDEVIDOS, | DESLIGAMENTO SEGURO. | SEGUINDO OS PROCEDIMENTOS PARA | DESLIGAR CORRETAMENTE A REDE
+a desconexão da central
+ALL ENERGY | dos painéis e o telhado | equipotencialização
+PROPRIETÁRIO:
+PRODUTORA EXEMPLO BETA | fotovoltaico
+Nº PROJETO : | 10000000002 | UNIDADE CONSUMIDORA : | Projetista Exemplo | DESENHO :
+na ABNT NBR | com os
+CPF: 000.000.000-00
+conectado
+dispositivos
+da
+foram
+Projetista Exemplo | microgeração
+Autor | 16149, | são
+geradora
+Dezembro/2024 | DATA: | Indicadas | ESCALAS :
+ao sistema de | distribuídos
+condutores do
+PRANCHA: | de proteção,
+ABNT NBR
+1/2
+01/12/2024
+Data | durante
+e
+de
+o
+
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+Warning: Cannot polyfill `Path2D`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+18 cm
+9300mm
+100mm
+GERAÇÃO PRÓPRIA | DE ATERRAMENTO | VAI PARA A MALHA
+RISCO DE CHOQUE | 700mm
+CUIDADO | 5
+ELÉTRICO
+25 cm | mín. 3000mm
+25
+VISTA FRONTAL
+26 | 13 | 27
+13 | 14 | 12 | 13 | 850mm
+1.900mm
+17
+28
+850mm
+1700mm | 11
+TC'S
+parafuso com bucha ou rebite. | b) A placa de | apresentado na | espessura | confeccionada | 1000 Art. 30 § | ELÉTRICO | seguintes dizeres: | energia, próximo a | a) Deve ser | especificações sobre a sinalização: | Assim, | Distribuída ao Sistema - EQUATORIAL GO. | 7.9 | A | 21 | 10
+600mm | 8 | 9
+sinalização | 7
+da
+MEDIDOR
+12 | Visor
+segue | NT020
+19 | 100mm
+18
+mínima | -
+instalada
+sinalização | DISJUNTOR | 4 | 4
+em | 3° | GERAÇÃO | de Segurança deverá
+FIGURA 1 | -
+o
+). A placa de
+policarbonato com | "CUIDADO | Conexão
+caixa
+texto | 17 | 11
+de
+junto ao padrão de
+de medição/proteção,
+deverá ser fixada | . | 1mm
+extraído
+PRÓPRIA" | 15
+de
+advertência | - RISCO DE
+e | Micro
+conforme
+da
+proteção
+atender
+( | e
+ANEEL | mesma
+Minigeração
+através | deverá ser | entrada
+CHOQUE
+anti-UV, | ao item
+modelo | com
+REN | 19
+com
+de | os | de
+CARACTERÍSTICAS DA PLACA:
+- | - | - | - | -
+DE ATERRAMENTO | VAI PARA A MALHA | 16
+Dimensões: 25cm x 18cm. | marcações pintadas na superficie da placa; | opacidade que permita adequada visualização das | processo de masterização com 2%, assegurando | Acabamento: Deve possuir cor amarela, obtida por | Gravação: As letras devem ser em Arial Black; | (ultravioleta); | Material: Policarbonato com aditivos anti-raios UV | Espessura: 2mm;
+1
+5
+25
+20
+13 | VISTA LATERAL
+26 | 27 | 13
+14 | 13
+12 | 12
+2
+10
+29
+4 | 3
+17
+4
+4
+28 | 8
+11
+19
+11
+15 | 9
+1700 mm
+18
+700 mm
+7
+6
+SUBESTAÇÃO AÉREA 112,5 KVA - 34,5 KV
+INSTALAÇÕES DE CONEXÕES
+POSTE DUPLO T
+1.000mm
+ELETRODUTO
+55
+160
+100
+100
+HASTE DE AÇO
+2.400mm | ESQUEMA DE ATERRAMENTO TN-S
+COBREADO | CAIXA DE INSPEÇÃO DE
+ATERRAMENTO | PE | TC'S | MURETA DE MEDIÇÃO DE
+ATERRAMENTO | N | L3 | L2 | L1 | SUBESTAÇÃO EM POSTE
+ALIMENTAÇÃO
+MURETA EM ALVENARIA
+T
+DETALHE DA MALHA DE TERRA
+T
+L | MEDIDOR
+2.020 | 1.700 | 1.500 | 2.020 | 2.130
+Visor
+MASSAS
+2.400mm | CONECTOR CUNHA
+L | s/escala
+HASTE /CABO
+Espaço para passagem dos cabos | DISJUNTOR
+T
+MASSAS
+Parede metálica
+100
+T | 160
+CABO DE COBRE NÚ 50MM² | 55
+2.400mm | 700
+PE
+N
+Vista Lateral
+1.000 | 800 | 60
+200
+1.860
+700
+140
+2.400mm | 22
+260
+CAIXA DE | 200
+640
+MEDIÇÃO | 550
+500
+600mm
+120 | 580 | CAIXA DE MEDIÇÃO EM BAIXA TENSÃO PARA
+TRANSFORMADOR TRIFÁSICO DE 112,5KVA
+Vista Frontal
+23
+500
+CAIXA DE MEDIÇÃO
+500
+O | I | 5
+Saída | off | on
+VISTA SUPERIOR
+MURETA DE ALVENARIA | 2 | 2
+24
+Esquerda | Vista Lateral | 2
+5
+5
+200
+700
+4
+4
+200 | 20 | 700
+7
+110 | 33 | 414 | 33 | 110
+Parafuso de segurança
+19
+Porta removível
+500
+6 | 6
+6
+Porta com dobradiça
+Vista Inferior | Tampa de proteção | Fixação do medidor | Medidor | Visor
+Vista Frontal | Vista Frontal
+500
+29 | 28 | 27 | 26 | 25 | 24 | 23 | 22 | 21 | 20 | 19 | 18 | 17 | 16 | 15 | 14 | 13 | 12 | 11 | 10 | 09 | 08 | 07 | 06 | 05 | 04 | 03 | 02 | 01
+Para-Raios Baixa Tensão Poliméricos 10/20kA 275V | Base Poste - Concretada | Eletroduto de 1'' PVC rígido com proteção anti-UV | Haste de aterramento aço cobreado - 2400mm x 5/8" 254 | Caixa de Inspeção tipo solo em PVC com tampa de ferro fundido | Disjuntor Termomagnético Tripolar 175A. | Medidor de energia elétrica trifásico unidirecional. | Transformador de corrente com tensão máxima de 36kV ; | Eletroduto 1'' PVC rígido; | Manilha Sapatilha; | Cabo de alumínio nú com alma de aço 1/0AWG; | Pingadeira de Concreto Armado com inclinação de 2%; | Curva 90° eletroduto 100mm² de aço galvanizado a fogo; | Conector de compressão formato H ou cunha; | Caixa de medição em BT para transformador trifásico de 112,5kVA - 34,5kV (Ver detalhe caixa de medição); | Poste Concreto Armado DT 11m/1000daN para transformador de 112,5kVA - 36kV; | Arame de Aço Galvanizado 12BWG; | Cabo de Cobre (ou Aço Cobreado) nu 50mm²- para aterramento de transformador, para-raios, ferragens e malha; | Eletroduto 65mm² de aço galvanizado a fogo; | Capacete 65mm² de aço galvanizado a fogo; | Suporte de Transformador tipo Cantoneira; | Cabo de Cobre Isolado XLPE 90°, EPR 90° ou HEPR 90° - Isolamento 0,6/1kV- 3#70(1#35)mm², Classe 5; | Transformador de Distribuição Trif. a Óleo de 112,5kVA (34,5/0,380/0,220)kV c/ neutro aterrado (conforme ET.001); | Para-raios Óxido de Zinco 30kV, 10kA; | Fusivel de 2H ; | Chave Fusível de Distribuição 34,5kV - 300A/10kA/ Base C para classe 36,2 kV Unipolar Base C equipada por Elo | Cruzeta de Concreto Tipo "T" 1900 mm; | Gancho Olhal; Porca Olhal; Parafuso Cabeça Quadrada Ø 16 x 250mm; | Isoladores de Suspensão Polimérico; | Alça Pré-formada para cabo de Alumínio;
+Porta removível
+500
+saída
+possuir eleta para seto | estiver localizado a tampa não deve | No compartimento onde o disjuntor | possuir eleta para selo. | estiver localizado a tampa não deve | No compartimento onde o disjuntor
+Direita | Vista Lateral
+200
+LEGENDA
+CONTEÚDO: | FINALIDADE: | DESCRIÇÃO DO PROJETO: | PROPRIETÁRIO: | APROVAÇÃO DA CONCESSIONÁRIA:
+Revisão
+- Legenda; | - Detalhes da Medição; | - Detalhes do aterramento; | - Detalhes das instalações de conexão; | RESPONSÁVEL TÉCNICO:
+Geração Própria - Suprimento de Energia Elétrica para Instalação Rural | 00
+Microgeração Distribuída de Energia Solar Fotovoltaica - 110 kW
+Eng. Fulana de Tal Exemplo | μ
+CREA : 0000000000D/GO | m;
+PRODUTORA EXEMPLO BETA | PROJETO ELÉTRICO
+FAZENDA EXEMPLO BETA
+Rua Exemplo, 100, Jataí-GO
+Emissão Inicial
+Descrição
+CEP:75.800-402 - Fone: (64) 0 0000-0000
+ALL ENERGY
+PROPRIETÁRIO:
+PRODUTORA EXEMPLO BETA
+Nº PROJETO : | 10000000002 | UNIDADE CONSUMIDORA : | Projetista Exemplo | DESENHO :
+CPF: 000.000.000-00
+Projetista Exemplo
+Autor
+Dezembro/2024 | DATA: | Indicadas | ESCALAS :
+PRANCHA:
+2/2
+30/11/2024
+Data

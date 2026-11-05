@@ -1,0 +1,45 @@
+Warning: Cannot polyfill `DOMMatrix`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+Warning: Cannot polyfill `Path2D`, rendering may be broken: "Error: Cannot find module 'canvas'
+Require stack:
+- /home/claude/gd/t/node_modules/pdfjs-dist/legacy/build/pdf.js
+- /home/claude/gd/t/ex.js".
+Warning: fetchStandardFontData: failed to fetch file "LiberationSans-Regular.ttf" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".
+Warning: fetchStandardFontData: failed to fetch file "FoxitFixed.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".
+Warning: fetchStandardFontData: failed to fetch file "FoxitFixedBold.pfb" with "UnknownErrorException: The standard font "baseUrl" parameter must be specified, ensure that the "standardFontDataUrl" API parameter is provided.".
+Serviço: | CN - EXECUTAR GD CAMPO - GR A | SS: | 100000004
+Rest. corte: Não | Prioridade:MÉDIA
+Solicitante: | Data solic.: | 24/09/2026
+Observação: | SS aberta automaticamente pelo sistema a partir da SS 100000003
+UC: | 000222222201 | Medidor: | 10000002-2 | Cte.: | 0.3 | Sit.: | ATIVA
+Cliente: | PRODUTORA EXEMPLO BETA
+Localidade: ITABERAI | CEP: | 76630-000
+Bairro: | ZONA RURAL
+Endereço: | Telefone: | (62) 00000-0000
+FAZENDA EXEMPLO BETA| PRÓXIMO AO PINDURA SAIA
+Razão: 56 | Rota: | 132 | Roteiro: | 9800 | Localização: | Rural | Déb. UC: R$0,00
+Carga: | Data lig.: | 07/11/2024 | Ult. alt.: | 11/08/2026
+Atividade: | 0155-5/01-CRIACAO DE FRANGOS PARA CORTE
+Tipo ligação: TRIFÁSICO (26 kW EM DIANTE) | Pot. trafo: | 112.50000000
+Tensão forn.: | 34500 | Tensão Med: | 115 V | Fases:
+Classe: | 04-RURAL | Subclasse: | 14-AGROPECUÁRIA URBANA
+Est. tarifária: | OPTANTE_B | Subgrupo: | OPT B2
+Hor. reserv.: | CER: | HP difer.:
+Ramal ligação: | Sazonalidade:
+Tipo ramal lig.:
+Posto trafo: | XX00000002
+Contrato: | 2024 | / | kWP: | kWFP:
+Med | 10000002-2 | Leit kWh: | Leit kW: | Cte kWh: | 0.3
+Modelo: | E650-02E3 4QQUA | Cte kW: | 0.3
+Med kVArh: | Leit kVArh: | Cte kVArh:
+Modelo:
+Med eletr.: | Ch. afer.: | 3000002-1 | Conj. med.:
+Modelo: | Modelo: | BTS - 066 | Modelo:
+TC 1: | 2000004-1 | TC 2: | 2000005-1 | TC 3: | 2000006-1 | TCs: | 200/5 A
+TP 1: | TP 2: | TP 3: | TPs:
+Fatores de multiplicação:
+kWh-P: | 0.012 | kWh FP: | 1.2 | kW: | 0.048
+kVArh-P: | 1.2 | kVArh FP: | 1.2
+kWhAna: | kVArhAna:

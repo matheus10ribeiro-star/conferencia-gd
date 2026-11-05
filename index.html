@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Conferência de Conexões GD</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+<header>
+  <img src="assets/logo-equatorial.png" alt="Equatorial Energia">
+  <h1>Conferência de Conexões GD<div class="sub">SS × Diagramas · relatório para fiscalização em campo</div></h1>
+  <button class="ghost" id="btnHome">Início</button>
+</header>
+<main>
+<!-- HOME -->
+<section id="home">
+  <div class="card">
+    <div class="row" style="justify-content:space-between">
+      <h2 style="margin:0">Conexões cadastradas</h2>
+      <div class="row">
+        <button onclick="exportAll()">Exportar backup</button>
+        <label><button onclick="this.nextElementSibling.click()">Importar backup</button><input type="file" accept=".json" class="hide" onchange="importAll(this)"></label>
+        <button class="pri" onclick="novaConexao()">+ Nova conexão</button>
+      </div>
+    </div>
+    <p class="hint">Os dados extraídos ficam salvos neste navegador. Os arquivos (PDFs) precisam ser carregados de novo para visualizar ou reler.</p>
+    <div class="grid" id="lista"></div>
+  </div>
+</section>
+
+<!-- CONEXÃO -->
+<section id="view" class="hide">
+  <div class="card noprint" style="padding:12px 16px">
+    <div class="row" style="justify-content:space-between">
+      <div><b id="vTitle" style="color:var(--az);font-size:16px"></b> <span id="vSub" class="hint"></span></div>
+      <div class="row"><button class="dang" onclick="excluir()">Excluir</button><button class="pri" onclick="salvar(true)">Salvar</button></div>
+    </div>
+  </div>
+  <div class="tabs noprint">
+    <button class="tab on" data-t="arq">1 · Arquivos</button>
+    <button class="tab" data-t="ss">2 · Dados da SS</button>
+    <button class="tab" data-t="prj">3 · Dados do projeto</button>
+    <button class="tab" data-t="cruz">4 · Cruzamento</button>
+    <button class="tab" data-t="rep">5 · Relatório</button>
+  </div>
+
+  <div id="tab-arq" class="card">
+    <h2>Arquivos da conexão</h2>
+    <div class="drop" id="drop">Arraste aqui a <b>SS</b>, os <b>diagramas</b> e demais arquivos (PDF ou imagem)<br><br>
+      <button class="pri" onclick="document.getElementById('fin').click()">Selecionar arquivos</button>
+      <input id="fin" type="file" multiple accept=".pdf,image/*" class="hide">
+    </div>
+    <table class="flist" style="margin-top:12px"><thead><tr><th>Arquivo</th><th>Tipo</th><th>Situação</th><th style="width:90px"></th></tr></thead><tbody id="ftab"></tbody></table>
+    <p class="hint">A SS é lida automaticamente. Diagramas com texto selecionável também; diagramas desenhados em CAD (texto em linhas) podem ser lidos pelo botão <b>Ler por OCR</b> na aba 3 ou preenchidos olhando o desenho lado a lado.</p>
+  </div>
+
+  <div id="tab-ss" class="card hide">
+    <h2>Dados da Nota de Serviço</h2>
+    <p class="hint">Campos em verde foram preenchidos automaticamente. Revise e corrija se preciso.</p>
+    <div class="fl" id="fSS"></div>
+  </div>
+
+  <div id="tab-prj" class="card hide">
+    <h2>Dados do projeto (diagramas)</h2>
+    <div class="split">
+      <div>
+        <div class="vbar">
+          <select id="vFile"></select>
+          <button onclick="vZoom(1/1.25)">−</button><button onclick="vZoom(1.25)">+</button>
+          <button onclick="vRot()">⟳ Girar</button>
+          <button id="btnOcr" onclick="rodarOCR()">Ler por OCR</button>
+          <span id="vInfo" class="hint"></span>
+        </div>
+        <div class="viewer" id="viewer"></div>
+        <div class="prog hide" id="ocrProg"><div></div></div>
+      </div>
+      <div class="formcol">
+        <div id="faltam"></div>
+        <div id="fPRJ"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="tab-cruz" class="card hide">
+    <h2>Cruzamento SS × Projeto</h2>
+    <div id="kpi"></div>
+    <h3>Pontos de atenção</h3>
+    <table class="al"><thead><tr><th>Status</th><th>Item</th><th>O que os documentos dizem</th><th>Ação em campo</th></tr></thead><tbody id="alTab"></tbody></table>
+    <h3>Adicionar observação manual</h3>
+    <div class="fl">
+      <div class="f"><label>Status</label><select id="mSt"><option value="red">DIVERGÊNCIA</option><option value="yel">CONFERIR</option><option value="gry">OBS.</option></select></div>
+      <div class="f"><label>Item</label><input id="mIt"></div>
+      <div class="f"><label>O que os documentos dizem</label><input id="mDoc"></div>
+      <div class="f"><label>Ação em campo</label><input id="mAc"></div>
+    </div>
+    <div style="margin-top:8px"><button onclick="addManual()">Adicionar</button></div>
+  </div>
+
+  <div id="tab-rep" class="card hide">
+    <div class="row noprint" style="justify-content:space-between;margin-bottom:12px">
+      <h2 style="margin:0">Relatório para o fiscal</h2>
+      <div class="row"><button onclick="baixarRelHTML()">Baixar relatório (.html)</button><button class="pri" onclick="window.print()">Imprimir / Salvar PDF</button></div>
+    </div>
+    <div id="rep"></div>
+  </div>
+</section>
+</main>
+<div class="toast" id="toast"></div>
+
+<script src="js/logo.js"></script>
+<script src="js/util.js"></script>
+<script src="js/campos.js"></script>
+<script src="js/leitura-ss.js"></script>
+<script src="js/leitura-projeto.js"></script>
+<script src="js/cruzamento.js"></script>
+<script src="js/relatorio.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

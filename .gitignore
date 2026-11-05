@@ -1,0 +1,19 @@
+# Documentos de clientes (SS, projetos, diagramas) — não versionar
+*.pdf
+*.PDF
+*.dwg
+*.jpg
+*.jpeg
+
+# Backups exportados pela ferramenta
+*backup*.json
+conexoes_gd_*.json
+
+# Relatórios gerados
+Conferencia_GD_SS_*.html
+
+# Sistema
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
